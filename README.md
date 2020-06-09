@@ -1,2 +1,2 @@
 # Riscus Explorato Upload Trial
-I will attempt to upload jupyter notebook code to github and import this repository to bitbucket. 
+This is my private Github code for the RiscusExplorato Machine Learning Algorthm. I will attempt to import this git repository to bitbucket as a part of my internshp preperation. 
